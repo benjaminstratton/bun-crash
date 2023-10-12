@@ -1,7 +1,11 @@
 export default function Home() {
   return (
     <main>
-      <h1>Benjamin Strtton</h1>
+      <div>
+        <h1>Final Project</h1>
+        <h2>Orientation to Technology Applications</h2>
+        <h3>By: Benjamin Stratton</h3>
+      </div>
     </main>
   )
 }
